@@ -1,0 +1,2 @@
+# rivals-script
+ㅇㅇ
