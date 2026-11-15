@@ -17504,7 +17504,7 @@ local function directEntry(...)
         sharedSlot1_90.current = sharedSlot1_89.current
         sharedSlot1_89.current = sharedSlot1_89.current.CreateWindow
         sharedSlot1_91.current = {}
-        sharedSlot1_91.current.Title = "4gib - discord.gg/hxmom"
+        sharedSlot1_91.current.Title = "4gib, 4gxxi - discord.gg/hxmom"
         sharedSlot1_91.current.Version = "Rivals"
         sharedSlot1_91.current.Center = true
         sharedSlot1_92.current = getfenv().SILENT
